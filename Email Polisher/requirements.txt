@@ -1,0 +1,9 @@
+streamlit==1.39.0
+matplotlib==3.9.0
+pandas==2.2.2
+fpdf==1.7.2
+google-api-python-client==2.146.0
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+nltk==3.9.1
+deep-translator==1.11.4
